@@ -1,0 +1,28 @@
+kenapa MVC?
+- orginasi dan struktur kode
+- pemisahan logic dan tampilan
+- perawatan kode
+- implementasi konsep OOP yang sudah dipelajari
+- digunakan oleh banyak web application framework
+
+//////////////////////////////////////////////////////////
+
+controller
+- perantara antara model dan view
+- menangani pemrosesan pada aplikasi
+- menangani aksi dari user
+
+model
+- representasi pengetahuan
+- mengelola data
+- logika bisnis
+
+view
+- output, apa yang dilihat oleh user
+- representasi visual dari model
+- lapisan presentasi
+
+///////////////////////////////////////
+
+- boot strapping = memanggil satu file dan file tersebut akan memanggil file yang lain
+- HT akses = untuk memodifikasi atau konfigurasi dari server apache dan bisa di lakukan perfolder
